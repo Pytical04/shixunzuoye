@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="add_contact">添加联系人</string>
+    <string name="edit_contact">编辑联系人</string>
+    <string name="delete_contact">删除联系人</string>
+    <string name="search">搜索</string>
+    <string name="logout">退出登录</string>
+</resources>
